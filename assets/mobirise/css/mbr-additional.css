@@ -1,0 +1,76 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
+
+
+
+
+
+
+
+
+#header4-1 H1 {
+  font-family: 'Oxygen', sans-serif;
+  color: #ffffff;
+  font-size: 24px;
+}
+#header4-1 B {
+  color: #000000;
+  font-family: 'Roboto Slab', serif;
+  font-size: 46px;
+}
+#header4-1 SPAN {
+  color: #ffffff;
+}
+#msg-box3-8 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-8 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-8 .lead P {
+  color: #ffffff;
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box3-8 .mbr-section-title B {
+  font-family: 'Roboto Slab', serif;
+  font-size: 46px;
+}
+#msg-box3-3 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-3 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-3 .mbr-section-title {
+  font-family: 'Alegreya Sans', sans-serif;
+  color: #ffffff;
+}
+#msg-box3-3 .lead P {
+  color: #ffffff;
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box3-3 .mbr-section-title B {
+  color: #000000;
+  font-family: 'Roboto Slab', serif;
+  font-size: 46px;
+}
+#form1-7 .mbr-section-title {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#form1-7 .mbr-section-title B {
+  color: #000000;
+  font-family: 'Roboto Slab', serif;
+  font-size: 46px;
+}
+#msg-box3-9 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-9 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#footer1-a P {
+  text-align: center;
+}
